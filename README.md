@@ -20,5 +20,8 @@ Backend :
   
 Technologies :
   Java, JavaSwing for UI, Database(MySQL) for data storage.
+
+Screenshots added!!!
+  
   
    

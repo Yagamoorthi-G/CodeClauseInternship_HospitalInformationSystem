@@ -1,14 +1,7 @@
 # CodeClauseInternship_HospitalInformationSystem
 Hospital Information System using Java, Java Swing, and MySQL
 
-Aim :
-Design a hospital information system to manage patient records, and medical history.
-
-Description :
-Develop a Java application with a robust interface for hospital staff to input, retrieve, and update patient information.
-
-Technologies :
-Java, JavaSwing for UI, Database(MySQL) for data storage.
+Java application with a interface for hospital staff to input, retrieve, and update patient information.
 
 Features :
 1. There will be separate module for doctor's record and patient's record.
@@ -25,6 +18,7 @@ User Interface(UI):
 Backend :
   Used MySQL as Database to store the values/records in Backend.
   
-  
+Technologies :
+  Java, JavaSwing for UI, Database(MySQL) for data storage.
   
    
